@@ -25,5 +25,5 @@ use Prabath\SecurityAudit\SecurityAudit;
 $audit = new SecurityAudit();
 
 // Run the audit
-$audit->runAudit();
+$audit->runA();
 
