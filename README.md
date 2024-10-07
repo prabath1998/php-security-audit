@@ -16,7 +16,7 @@ Clone this repository:
 
 bash
 Copy code
-git clone https://github.com/prabath1998/security-audit.git
+git clone https://github.com/prabath1998/php-security-audit.git
 Navigate to the project directory:
 
 bash
