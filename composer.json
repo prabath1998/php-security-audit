@@ -1,0 +1,14 @@
+{
+    "name": "prabath/security-audit",
+    "description": "A package to scan for common security vulnerabilities in PHP applications",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Prabath\\SecurityAudit\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^7.4 || ^8.0"
+    }
+}
