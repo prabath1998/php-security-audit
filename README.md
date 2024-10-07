@@ -15,3 +15,12 @@ You can install the package via Composer. Run the following command in your proj
 
 ```bash
 composer require prabath/security-audit
+
+use Prabath\SecurityAudit\SecurityAudit;
+
+// Create an instance of the SecurityAudit class
+$audit = new SecurityAudit();
+
+// Run the audit
+$audit->runAudit();
+
